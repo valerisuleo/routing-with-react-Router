@@ -1,4 +1,4 @@
-# React Router Tutorial
+# React Router
 
 Welcome to the React Router tutorial! This guide is designed to help you understand how routing works in React applications using the popular `react-router-dom` library. We'll cover everything from setting up basic routes to handling nested routes.
 
